@@ -1,5 +1,8 @@
 ## Simple RAG App with LangChain & Streamlit
 
+![Screenshot 2025-06-15 at 4 19 58 PM](https://github.com/user-attachments/assets/03754896-7989-4cc7-ada8-948a3405483f)
+
+
 Build your own Retrieval-Augmented Generation (RAG) app using LangChain, OpenAI, and ChromaDB — all wrapped in a clean and interactive Streamlit UI.
 
 This project walks you through:
