@@ -59,9 +59,7 @@ python indexing.py
 ```
 
 
-5. Run the RAG App
-
-Once the vector DB is created, launch the chat UI:
+5. Run the RAG App, once the vector DB is created, launch the chat UI:
 Use the sidebar to pick your model, and ask anything from the textbook — follow-up questions are supported too!
 ```
 streamlit run querying.py
