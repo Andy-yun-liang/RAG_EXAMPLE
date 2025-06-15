@@ -1,7 +1,5 @@
 ## Simple RAG App with LangChain & Streamlit
 
-![Screenshot 2025-06-15 at 4 19 58 PM](https://github.com/user-attachments/assets/03754896-7989-4cc7-ada8-948a3405483f)
-
 
 Build your own Retrieval-Augmented Generation (RAG) app using LangChain, OpenAI, and ChromaDB — all wrapped in a clean and interactive Streamlit UI.
 
@@ -13,9 +11,9 @@ This project walks you through:
 
     Embedding text with OpenAI Embeddings
 
-    Performing vector similarity search 🔍
+    Performing vector similarity search 
 
-    Creating a chat app that understands contextual follow-up questions using LangChain's RAG chain and memory 🎯
+    Creating a chat app that understands contextual follow-up questions using LangChain's RAG chain and memory 
 
 ## Use Case:
 
@@ -67,5 +65,14 @@ Use the sidebar to pick your model, and ask anything from the textbook — follo
 ```
 streamlit run querying.py
 ```
+
+## Images:
+
+![Screenshot 2025-06-15 at 4 19 58 PM](https://github.com/user-attachments/assets/0071461c-2e9c-492f-90a9-6dcbd0c92a2c)
+![image](https://github.com/user-attachments/assets/5c898fef-14ad-43f5-b6ba-909eb2f949f9)
+
+
+
+
 
 
