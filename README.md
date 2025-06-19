@@ -9,7 +9,7 @@ This project walks you through:
 
     Creating a local vector store using ChromaDB
 
-    Embedding text with OpenAI Embeddings
+    Embedding text with an OpenAI Embedding model
 
     Performing vector similarity search 
 
